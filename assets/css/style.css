@@ -445,8 +445,8 @@ p {
     2.HEADER css 
 ===========================*/
 .header-area {
-  padding-left: 15px;
-  padding-right: 15px; }
+  padding-left: 0;
+  padding-right: 0; }
   @media (max-width: 767px) {
     .header-area {
       padding: 0; } }
