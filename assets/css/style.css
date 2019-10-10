@@ -592,8 +592,6 @@ p {
 /*===== Header =====*/
 .header-content-area {
   height: 750px;
-  border-bottom-left-radius: 30px;
-  border-bottom-right-radius: 30px;
   position: relative;
   overflow: hidden; }
   @media only screen and (min-width: 1400px) {
