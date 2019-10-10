@@ -13,7 +13,7 @@
 	<title>Tasik Hacktoberfest 2019 - Hacktoberfest presented by Digitalocean</title>
 
 	<!--====== Favicon Icon ======-->
-	<link rel="shortcut icon" href="assets/images/favicon.png" type="image/png">
+	<link rel="shortcut icon" href="assets/images/tasik_code_logo.ico" type="image/png">
 
 	<!--====== Bootstrap css ======-->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -71,9 +71,8 @@
 					<div class="col-lg-12">
 						<nav class="navbar navbar-expand-lg">
 							<a class="navbar-brand" href="#">
-								<!-- <img src="assets/images/logo.png" alt="Logo"> -->
+								<img src="assets/images/tasik_code_logo_light.png" alt="Tasik Code" style="width:150px">
 							</a>
-
 							<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTwo" aria-controls="navbarTwo" aria-expanded="false" aria-label="Toggle navigation">
 								<span class="toggler-icon"></span>
 								<span class="toggler-icon"></span>
@@ -104,7 +103,7 @@
 							</div>
 
 							<div class="navbar-btn d-none d-sm-inline-block">
-								<a class="main-btn" href="https://www.eventbrite.com/e/hacktober-fest-tasikmalaya-2019-tickets-75802682865">Dapatkan Tiket</a>
+								<a class="main-btn" href="https://www.loket.com/event/tasikhacktoberfest2019">Get a Ticket</a>
 							</div>
 						</nav> <!-- navbar -->
 					</div>
@@ -112,15 +111,17 @@
 			</div> <!-- container -->
 		</div>
 
-		<div id="home" class="header-content-area bg_cover d-flex align-items-center" style="background-image: url(assets/images/code_conference.jpg)">
+		<div id="home" class="header-content-area bg_cover d-flex align-items-center" style="background-image: url(assets/images/city_light_dark.jpg)">
 			<div class="container">
 				<div class="row justify-content-center">
 					<div class="col-lg-10">
 						<div data-countdown="2019/10/19"></div>
 						<div class="header-content text-center">
+							<h2 class="header-title">Tasik Hacktoberfest 2019</h2>
+							<h3 class="sub-title">19 October, 2019 in Tasikmalaya</h3>
 							<ul class="header-btn">
-								<li><a class="main-btn main-btn-2" target="_blank" href="https://www.loket.com/event/tasikhacktoberfest2019" rel="nofollow">Pesan Tiket</a></li>
-								<li><a class="main-btn" target="_blank" href="https://hacktoberfest.digitalocean.com" rel="nofollow">Lebih Lanjut</a></li>
+							<li><a class="main-btn main-btn-2" target="_blank" href="https://www.loket.com/event/tasikhacktoberfest2019" rel="nofollow">Register Now</a></li>
+								<li><a class="main-btn" target="_blank" href="https://hacktoberfest.digitalocean.com" rel="nofollow">Learn More</a></li>
 							</ul>
 						</div> <!-- header content -->
 					</div>
@@ -132,13 +133,12 @@
 	<!--====== HEADER PART ENDS ======-->
 
 	<!--====== ABOUT PART START ======-->
-
 	<section id="about" class="about-area pb-130 pt-80">
 		<div class="container">
 			<div class="row align-items-center">
 				<div class="col-lg-6">
 					<div class="about-image mt-50 wow fadeInLeft" data-wow-duration="1s">
-						<img src="assets/images/about.png" alt="About">
+						<img src="assets/images/DpUxMAMWwAEEjfo.jpg" alt="About">
 					</div> <!-- about image -->
 				</div>
 				<div class="col-lg-6">
@@ -146,12 +146,11 @@
 						<div class="section-title">
 							<h2 class="title">Tasik Hacktoberfest</h2>
 						</div> <!-- section title -->
-
-						<p class="text mt-30">Komunitas <a href="https://tasikcode.xyz">TasikCode</a> akan mengadakan acara <a href="https://hacktoberfest.digitalocean.com">Hacktoberfest 2019</a> di Tasikmalaya,
-							sebuah selebrasi open source software yang diselenggarakan oleh DigitalOcean atas bekerja sama dengan tim dari Dev.to.
-							Di acara ini, kita akan bersama-sama belajar mengenai open source serta melakukan kontribusi langsung ke proyek open source
-							yang kalian anggap menarik dan sharing dunia developer di kota Tasik dan Priangan Timur.</p><br>
-						<h5>Info tentang apa itu Hacktober Fest 2019 bisa <a href="https://hacktoberfest.digitalocean.com">Lihat disini.</a></h5><br>
+						<p class="text mt-30"><a href="https://tasikcode.xyz">TasikCode</a> community will hold the <a href="https://hacktoberfest.digitalocean.com">Hacktoberfest 2019</a> event in Tasikmalaya,
+							an open source software celebration organized by <a href="https://digitalocean.com">DigitalOcean</a> in collaboration with a team from <a href="https://dev.to">Dev.to</a> 
+							In this event, we will jointly learn about open source and make direct contributions to open source project that you find 
+							interesting and sharing the world of developers in the cities of Tasik and East Priangan.</p><br>
+						<h5>Information about what is the Hacktober Fest 2019 can be seen <a href="https://hacktoberfest.digitalocean.com">here.</a></h5><br>
 						<p class="date"><span>19<sup></sup></span> Oktober 2019</p>
 					</div> <!-- about content -->
 				</div>
@@ -173,7 +172,7 @@
 						</div>
 						<div class="counter-content">
 							<span class="count counter">4</span>
-							<p class="text">Speaker</p>
+							<p class="text">Cool Speaker</p>
 						</div>
 					</div> <!-- single counter -->
 				</div>
@@ -183,8 +182,8 @@
 							<i class="lni-bulb"></i>
 						</div>
 						<div class="counter-content">
-							<span class="count counter">40</span>
-							<p class="text">Kursi Tersedia</p>
+							<span class="count counter">50</span>
+							<p class="text">Seats Available</p>
 						</div>
 					</div> <!-- single counter -->
 				</div>
@@ -195,7 +194,7 @@
 						</div>
 						<div class="counter-content">
 							<span class="count counter">100</span>
-							<p class="text">Project</p>
+							<p class="text">Projects</p>
 						</div>
 					</div> <!-- single counter -->
 				</div>
@@ -206,7 +205,7 @@
 						</div>
 						<div class="counter-content">
 							<span class="count counter">4</span>
-							<p class="text">Session</p>
+							<p class="text">Sessions</p>
 						</div>
 					</div> <!-- single counter -->
 				</div>
@@ -244,8 +243,8 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-8">
 					<div class="section-title text-center pb-20">
-						<h2 class="title">Mengapa Harus Hadir ?</h2>
-						<p class="text">Acara ini diselenggarakan di seluruh dunia secara serentak selama bulan Oktober ini, untuk memeriahkannya yuk kita manfaatkan momen ini untuk berkumpul sesama developer .</p>
+						<h2 class="title">Why You Should Attend?</h2>
+						<p class="text">This event was held all over the world simultaneously during this October, to enliven it let's take advantage of this moment to gather fellow developers.</p>
 					</div> <!-- section title -->
 				</div>
 			</div> <!-- row -->
@@ -257,8 +256,8 @@
 							<span>01</span>
 						</div>
 						<div class="features-content">
-							<h4 class="features-title"><a href="#">Kumpul Developer</a></h4>
-							<p class="text">Kumpulnya para penggiat, pengembang aplikasi baik desktop, website maupun mobile .</p>
+							<h4 class="features-title"><a href="#">Developer Gathering</a></h4>
+							<p class="text">Gathering of activists, application developers both desktop, website and mobile.</p>
 						</div>
 					</div> <!-- single features -->
 				</div>
@@ -269,8 +268,8 @@
 							<span>02</span>
 						</div>
 						<div class="features-content">
-							<h4 class="features-title"><a href="#">Orang Baru</a></h4>
-							<p class="text">Bertemu dengan orang baru, berbagi pengalaman baik dunia develoepr maupun di dunia non teknis.</p>
+							<h4 class="features-title"><a href="#">New People</a></h4>
+							<p class="text">Meet new people, share experiences both in the developer world and in the non-technical world.</p>
 						</div>
 					</div> <!-- single features -->
 				</div>
@@ -282,7 +281,7 @@
 						</div>
 						<div class="features-content">
 							<h4 class="features-title"><a href="#">Global Event</a></h4>
-							<p class="text">Acara ini diselenggarakan di seluruh dunia serentak selama bulan oktober untuk menggiatkan dunia open source.</p>
+							<p class="text">This event was held all over the world simultaneously during October to encourage the open source world.</p>
 						</div>
 					</div> <!-- single features -->
 				</div>
@@ -293,8 +292,8 @@
 							<span>04</span>
 						</div>
 						<div class="features-content">
-							<h4 class="features-title"><a href="#">Terinspirasi</a></h4>
-							<p class="text">Saling menginspirasi, kolaborasi untuk membuat kualitas developer menjadi lebih baik. </p>
+							<h4 class="features-title"><a href="#">Inspire</a></h4>
+							<p class="text">Inspiring each other, collaboration to make the quality of developers better.</p>
 						</div>
 					</div> <!-- single features -->
 				</div>
@@ -305,8 +304,8 @@
 							<span>05</span>
 						</div>
 						<div class="features-content">
-							<h4 class="features-title"><a href="#">Sesi Networking</a></h4>
-							<p class="text">Temukan rekan bisnis maupun rekan developer untuk bisa kerja sama di masa yang akan datang.</p>
+							<h4 class="features-title"><a href="#">Networking Session</a></h4>
+							<p class="text">Find business partners and fellow developers to be able to work together in the future.</p>
 						</div>
 					</div> <!-- single features -->
 				</div>
@@ -317,8 +316,8 @@
 							<span>06</span>
 						</div>
 						<div class="features-content">
-							<h4 class="features-title"><a href="#">Tatap Muka</a></h4>
-							<p class="text">Developer pun perlu untuk bersosialisasi, agar lebih cakap dalam berkomunikasi di dunia nyata.</p>
+							<h4 class="features-title"><a href="#">Meet New Faces</a></h4>
+							<p class="text">Developers also need to socialize, so they are more capable in communicating in the real world.</p>
 						</div>
 					</div> <!-- single features -->
 				</div>
@@ -343,7 +342,7 @@
 				<div class="col-lg-4 col-sm-6">
 					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeIn;">
 						<div class="team-image">
-							<img src="assets/images/team-1.jpg" alt="Team">
+							<img src="https://avatars.githubusercontent.com/daguswijaya" alt="" border="0" width=""/>
 						</div>
 						<div class="team-content">
 							<div class="team-social">
@@ -351,7 +350,6 @@
 									<li><a href="#"><i class="lni-facebook-filled"></i></a></li>
 									<li><a href="#"><i class="lni-twitter-original"></i></a></li>
 									<li><a href="#"><i class="lni-linkedin-original"></i></a></li>
-									<li><a href="#"><i class="lni-pinterest"></i></a></li>
 								</ul>
 							</div>
 							<h4 class="team-name"><a href="#">Dagus Wijaya</a></h4>
@@ -362,7 +360,7 @@
 				<div class="col-lg-4 col-sm-6">
 					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeIn;">
 						<div class="team-image">
-							<img src="assets/images/team-2.jpg" alt="Team">
+							<img src="https://avatars.githubusercontent.com/donypurnama" alt="" border="0" width=""/>
 						</div>
 						<div class="team-content">
 							<div class="team-social">
@@ -370,7 +368,6 @@
 									<li><a href="#"><i class="lni-facebook-filled"></i></a></li>
 									<li><a href="#"><i class="lni-twitter-original"></i></a></li>
 									<li><a href="#"><i class="lni-linkedin-original"></i></a></li>
-									<li><a href="#"><i class="lni-pinterest"></i></a></li>
 								</ul>
 							</div>
 							<h4 class="team-name"><a href="#">Dony P</a></h4>
@@ -381,7 +378,7 @@
 				<div class="col-lg-4 col-sm-6">
 					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1s" style="visibility: visible; animation-duration: 1s; animation-delay: 1s; animation-name: fadeIn;">
 						<div class="team-image">
-							<img src="assets/images/team-3.jpg" alt="Team">
+							<img src="https://avatars.githubusercontent.com/lukmannulhakim" alt="" border="0" width=""/>
 						</div>
 						<div class="team-content">
 							<div class="team-social">
@@ -389,7 +386,6 @@
 									<li><a href="#"><i class="lni-facebook-filled"></i></a></li>
 									<li><a href="#"><i class="lni-twitter-original"></i></a></li>
 									<li><a href="#"><i class="lni-linkedin-original"></i></a></li>
-									<li><a href="#"><i class="lni-pinterest"></i></a></li>
 								</ul>
 							</div>
 							<h4 class="team-name"><a href="#">Ahmad Lumanul Hakim</a></h4>
@@ -400,7 +396,7 @@
 				<div class="col-lg-4 col-sm-6">
 					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeIn;">
 						<div class="team-image">
-							<img src="assets/images/team-4.jpg" alt="Team">
+							<img src="http://localhost/hacktoberfest/assets/images/triza_m_irfan.jpeg" alt="" border="0" width=""/>
 						</div>
 						<div class="team-content">
 							<div class="team-social">
@@ -408,18 +404,17 @@
 									<li><a href="#"><i class="lni-facebook-filled"></i></a></li>
 									<li><a href="#"><i class="lni-twitter-original"></i></a></li>
 									<li><a href="#"><i class="lni-linkedin-original"></i></a></li>
-									<li><a href="#"><i class="lni-pinterest"></i></a></li>
 								</ul>
 							</div>
 							<h4 class="team-name"><a href="#">Triza M.I</a></h4>
-							<span class="sub-title">CEO Braderly</span>
+							<span class="sub-title">Co-Founder Start-Up & Financial Consultant</span>
 						</div>
 					</div>
 				</div>
 				<div class="col-lg-4 col-sm-6">
 					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1s" style="visibility: visible; animation-duration: 1s; animation-delay: 1s; animation-name: fadeIn;">
 						<div class="team-image">
-							<img src="assets/images/team-5.jpg" alt="Team">
+							<img src="http://localhost/hacktoberfest/assets/images/reza_maulana.jpg" alt="" border="0" width=""/>
 						</div>
 						<div class="team-content">
 							<div class="team-social">
@@ -427,7 +422,6 @@
 									<li><a href="#"><i class="lni-facebook-filled"></i></a></li>
 									<li><a href="#"><i class="lni-twitter-original"></i></a></li>
 									<li><a href="#"><i class="lni-linkedin-original"></i></a></li>
-									<li><a href="#"><i class="lni-pinterest"></i></a></li>
 								</ul>
 							</div>
 							<h4 class="team-name"><a href="#">M Reza Maulana</a></h4>
@@ -438,7 +432,7 @@
 				<div class="col-lg-4 col-sm-6">
 					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 1.5s; animation-name: fadeIn;">
 						<div class="team-image">
-							<img src="assets/images/team-6.jpg" alt="Team">
+							<img src="http://localhost/hacktoberfest/assets/images/hedi_herdia.jpg" alt="" border="0" width=""/>
 						</div>
 						<div class="team-content">
 							<div class="team-social">
@@ -446,7 +440,6 @@
 									<li><a href="#"><i class="lni-facebook-filled"></i></a></li>
 									<li><a href="#"><i class="lni-twitter-original"></i></a></li>
 									<li><a href="#"><i class="lni-linkedin-original"></i></a></li>
-									<li><a href="#"><i class="lni-pinterest"></i></a></li>
 								</ul>
 							</div>
 							<h4 class="team-name"><a href="#">Hedi Herdiana</a></h4>
@@ -457,7 +450,7 @@
 				<div class="col-lg-4 col-sm-6">
 					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeIn;">
 						<div class="team-image">
-							<img src="assets/images/team-4.jpg" alt="Team">
+							<img src="https://avatars.githubusercontent.com/rozulimam" alt="" border="0" width=""/>
 						</div>
 						<div class="team-content">
 							<div class="team-social">
@@ -465,7 +458,6 @@
 									<li><a href="#"><i class="lni-facebook-filled"></i></a></li>
 									<li><a href="#"><i class="lni-twitter-original"></i></a></li>
 									<li><a href="#"><i class="lni-linkedin-original"></i></a></li>
-									<li><a href="#"><i class="lni-pinterest"></i></a></li>
 								</ul>
 							</div>
 							<h4 class="team-name"><a href="#">Rozul Imam</a></h4>
@@ -475,40 +467,12 @@
 				</div>
 				<div class="col-lg-4 col-sm-6">
 					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1s" style="visibility: visible; animation-duration: 1s; animation-delay: 1s; animation-name: fadeIn;">
-						<div class="team-image">
-							<img src="assets/images/team-5.jpg" alt="Team">
-						</div>
-						<div class="team-content">
-							<div class="team-social">
-								<ul class="social">
-									<li><a href="#"><i class="lni-facebook-filled"></i></a></li>
-									<li><a href="#"><i class="lni-twitter-original"></i></a></li>
-									<li><a href="#"><i class="lni-linkedin-original"></i></a></li>
-									<li><a href="#"><i class="lni-pinterest"></i></a></li>
-								</ul>
-							</div>
-							<h4 class="team-name"><a href="#">Yukihiro Matsumoto</a></h4>
-							<span class="sub-title"> - </span>
-						</div>
+						
 					</div>
 				</div>
 				<div class="col-lg-4 col-sm-6">
 					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 1.5s; animation-name: fadeIn;">
-						<div class="team-image">
-							<img src="https://en.wikipedia.org/wiki/Larry_Wall#/media/File:Larry_Wall_YAPC_2007.jpg" alt="Team">
-						</div>
-						<div class="team-content">
-							<div class="team-social">
-								<ul class="social">
-									<li><a href="#"><i class="lni-facebook-filled"></i></a></li>
-									<li><a href="#"><i class="lni-twitter-original"></i></a></li>
-									<li><a href="#"><i class="lni-linkedin-original"></i></a></li>
-									<li><a href="#"><i class="lni-pinterest"></i></a></li>
-								</ul>
-							</div>
-							<h4 class="team-name"><a href="#">Larry Wall</a></h4>
-							<span class="sub-title"> - </span>
-						</div>
+						
 					</div>
 				</div>
 			</div>
@@ -522,7 +486,7 @@
 				<div class="col-lg-8">
 					<div class="section-title text-center pb-50">
 						<h2 class="title">Galleri</h2>
-						<p class="text">Tasik Hacktoberfest 2019</p>
+						<a class="twitter-timeline" href="https://twitter.com/tasikcode?ref_src=twsrc%5Etfw">Tweets by tasikcode</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 					</div>
 				</div>
 			</div>
@@ -583,7 +547,7 @@
 				</div>
 			</div>
 		</div> -->
-		<div class="container">
+		<!-- <div class="container">
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="gallery-btn pt-60 text-center">
@@ -591,7 +555,7 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> -->
 	</section>
 	<!--====== GALLERY PART ENDS ======-->
 
@@ -605,7 +569,10 @@
 				<div class="col-lg-8">
 					<div class="section-title text-center pb-50">
 						<h2 class="title">Event Sponsors</h2>
-						<p class="text">Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum vocent mediocritatem reiciendis odit sed, vero amet blanditiis cule dicta iriure at phaedrum.</p>
+						<div class="embed-responsive embed-responsive-16by9">
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+						</div>
+						<!-- <p class="text">Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum vocent mediocritatem reiciendis odit sed, vero amet blanditiis cule dicta iriure at phaedrum.</p> -->
 					</div> <!-- section title -->
 				</div>
 			</div> <!-- row -->
@@ -712,7 +679,7 @@
 
 	<!--====== FOOTER PART START ======-->
 
-	<section id="footer" class="footer-area bg_cover" style="background-image: url(assets/images/footer.jpg)">
+	<section id="footer" class="footer-area bg_cover" style="background-image: url(assets/images/city_light.jpg)">
 
 		<!-- <div class="footer-subscribe-area pt-120 pb-130">
 			<div class="container">
@@ -732,18 +699,18 @@
 			</div> 
 		</div>  -->
 
-		<div class="footer-widget">
+		<!-- <div class="footer-widget">
 			<div class="container">
 				<div class="widget pt-80 pb-130">
 					<div class="row">
-						<!-- <div class="col-lg-12">
+						<div class="col-lg-12">
 							<div class="footer-address mt-40">
 								<h5 class="f-title">Location Event</h5>
 								<p class="text">Dapur Mimih</p>
 								<p class="text">19 October, 2019 <br> Jalan Gunung Sari No.13, Tawang, Kota Tasikmalaya</p>
 							</div>
-						</div> -->
-						<!-- <div class="col-lg-6">
+						</div>
+						<div class="col-lg-6">
 							<div class="footer-contact mt-40">
 								<h5 class="f-title">Social Connection</h5>
 								<p class="text">Don't miss a thing! Receive daily news You should connect social area for Any Proper Updates Anytime</p>
@@ -754,11 +721,11 @@
 									<li><a href="#"><i class="lni-instagram-original"></i></a></li>
 								</ul>
 							</div>
-						</div> -->
-					</div> <!-- row -->
-				</div> <!-- widget -->
-			</div> <!-- container -->
-		</div> <!-- footer widget -->
+						</div>
+					</div> 
+				</div> 
+			</div>
+		</div>  -->
 
 		<div class="footer-copyright">
 			<div class="container">
