@@ -627,7 +627,7 @@
 									</div>
 									<div class="info-content media-body">
 										<h6 class="info-title">Email address</h6>
-										<p class="text">hi@tasikcode.xyz</p>
+										<p class="text">hai.tasikcode@gmail.com</p>
 									</div>
 								</div> <!-- single info -->
 							</li>
