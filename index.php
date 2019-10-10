@@ -392,8 +392,8 @@
 									<li><a href="#"><i class="lni-pinterest"></i></a></li>
 								</ul>
 							</div>
-							<h4 class="team-name"><a href="#">Ahmad Lukman Nulhakim</a></h4>
-							<span class="sub-title">Web Developer</span>
+							<h4 class="team-name"><a href="#">Ahmad Lumanul Hakim</a></h4>
+							<span class="sub-title">UI/UX Speacilist</span>
 						</div>
 					</div>
 				</div>
