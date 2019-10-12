@@ -461,7 +461,7 @@
 								</ul>
 							</div>
 							<h4 class="team-name"><a href="#">Rozul Imam</a></h4>
-							<span class="sub-title">Senior Developer</span>
+							<span class="sub-title">Web & Mobile App Developer</span>
 						</div>
 					</div>
 				</div>
