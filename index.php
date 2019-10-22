@@ -645,6 +645,17 @@
 							<li>
 								<div class="single-info d-flex mt-25">
 									<div class="info-icon">
+										<i class="lni-github-original"></i>
+									</div>
+									<div class="info-content media-body">
+										<h6 class="info-title">Github</h6>
+										<p class="text"><a href="https://github.com/TasikCode" target="_blank">TasikCode</a>	</p>
+									</div>
+								</div> <!-- single info -->
+							</li>
+							<li>
+								<div class="single-info d-flex mt-25">
+									<div class="info-icon">
 										<i class="lni-money-location"></i>
 									</div>
 									<div class="info-content media-body">
