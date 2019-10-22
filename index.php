@@ -1,8 +1,6 @@
 <!doctype html>
 <html lang="en">
-
 <head>
-
 	<!--====== Required meta tags ======-->
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -649,7 +647,7 @@
 									</div>
 									<div class="info-content media-body">
 										<h6 class="info-title">Github</h6>
-										<p class="text"><a href="https://github.com/TasikCode" target="_blank">TasikCode</a>	</p>
+										<p class="text"><a href="https://github.com/TasikCode" target="_blank">TasikCode</a></p>
 									</div>
 								</div> <!-- single info -->
 							</li>
