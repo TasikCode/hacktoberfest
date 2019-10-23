@@ -1,8 +1,6 @@
 <!doctype html>
 <html lang="en">
-
 <head>
-
 	<!--====== Required meta tags ======-->
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -639,6 +637,17 @@
 									<div class="info-content media-body">
 										<h6 class="info-title">Phone Number</h6>
 										<p class="text">+62812 8365 4757</p>
+									</div>
+								</div> <!-- single info -->
+							</li>
+							<li>
+								<div class="single-info d-flex mt-25">
+									<div class="info-icon">
+										<i class="lni-github-original"></i>
+									</div>
+									<div class="info-content media-body">
+										<h6 class="info-title">Github</h6>
+										<p class="text"><a href="https://github.com/TasikCode" target="_blank">TasikCode</a></p>
 									</div>
 								</div> <!-- single info -->
 							</li>
