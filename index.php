@@ -1,8 +1,6 @@
 <!doctype html>
 <html lang="en">
-
 <head>
-
 	<!--====== Required meta tags ======-->
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -147,8 +145,8 @@
 							<h2 class="title">Tasik Hacktoberfest</h2>
 						</div> <!-- section title -->
 						<p class="text mt-30"><a href="https://tasikcode.xyz">TasikCode</a> community will hold the <a href="https://hacktoberfest.digitalocean.com">Hacktoberfest 2019</a> event in Tasikmalaya,
-							an open source software celebration organized by <a href="https://digitalocean.com">DigitalOcean</a> in collaboration with a team from <a href="https://dev.to">Dev.to</a> 
-							In this event, we will jointly learn about open source and make direct contributions to open source project that you find 
+							an open source software celebration organized by <a href="https://digitalocean.com">DigitalOcean</a> in collaboration with a team from <a href="https://dev.to">Dev.to</a>
+							In this event, we will jointly learn about open source and make direct contributions to open source project that you find
 							interesting and sharing the world of developers in the cities of Tasik and East Priangan.</p><br>
 						<h5>Information about what is the Hacktober Fest 2019 can be seen <a href="https://hacktoberfest.digitalocean.com">here.</a></h5><br>
 						<p class="date"><span>19<sup></sup></span> Oktober 2019</p>
@@ -388,15 +386,15 @@
 									<li><a href="#"><i class="lni-linkedin-original"></i></a></li>
 								</ul>
 							</div>
-							<h4 class="team-name"><a href="#">Ahmad Lumanul Hakim</a></h4>
-							<span class="sub-title">UI/UX Speacilist</span>
+							<h4 class="team-name"><a href="#">Ahmad Lukman Nulhakim</a></h4>
+							<span class="sub-title">Web Developer</span>
 						</div>
 					</div>
 				</div>
 				<div class="col-lg-4 col-sm-6">
 					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeIn;">
 						<div class="team-image">
-							<img src="http://localhost/hacktoberfest/assets/images/triza_m_irfan.jpeg" alt="" border="0" width=""/>
+							<img src="./assets/images/triza_m_irfan.jpeg" alt="" border="0" width=""/>
 						</div>
 						<div class="team-content">
 							<div class="team-social">
@@ -414,7 +412,7 @@
 				<div class="col-lg-4 col-sm-6">
 					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1s" style="visibility: visible; animation-duration: 1s; animation-delay: 1s; animation-name: fadeIn;">
 						<div class="team-image">
-							<img src="http://localhost/hacktoberfest/assets/images/reza_maulana.jpg" alt="" border="0" width=""/>
+							<img src="./assets/images/reza_maulana.jpg" alt="" border="0" width=""/>
 						</div>
 						<div class="team-content">
 							<div class="team-social">
@@ -432,7 +430,7 @@
 				<div class="col-lg-4 col-sm-6">
 					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 1.5s; animation-name: fadeIn;">
 						<div class="team-image">
-							<img src="http://localhost/hacktoberfest/assets/images/hedi_herdia.jpg" alt="" border="0" width=""/>
+							<img src="./assets/images/hedi_herdia.jpg" alt="" border="0" width=""/>
 						</div>
 						<div class="team-content">
 							<div class="team-social">
@@ -461,18 +459,18 @@
 								</ul>
 							</div>
 							<h4 class="team-name"><a href="#">Rozul Imam</a></h4>
-							<span class="sub-title">Senior Developer</span>
+							<span class="sub-title">Web & Mobile App Developer</span>
 						</div>
 					</div>
 				</div>
 				<div class="col-lg-4 col-sm-6">
 					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1s" style="visibility: visible; animation-duration: 1s; animation-delay: 1s; animation-name: fadeIn;">
-						
+
 					</div>
 				</div>
 				<div class="col-lg-4 col-sm-6">
 					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 1.5s; animation-name: fadeIn;">
-						
+
 					</div>
 				</div>
 			</div>
@@ -645,6 +643,17 @@
 							<li>
 								<div class="single-info d-flex mt-25">
 									<div class="info-icon">
+										<i class="lni-github-original"></i>
+									</div>
+									<div class="info-content media-body">
+										<h6 class="info-title">Github</h6>
+										<p class="text"><a href="https://github.com/TasikCode" target="_blank">TasikCode</a></p>
+									</div>
+								</div> <!-- single info -->
+							</li>
+							<li>
+								<div class="single-info d-flex mt-25">
+									<div class="info-icon">
 										<i class="lni-money-location"></i>
 									</div>
 									<div class="info-content media-body">
@@ -693,10 +702,10 @@
 									<button class="main-btn">Subscribe Now</button>
 								</form>
 							</div>
-						</div> 
+						</div>
 					</div>
-				</div> 
-			</div> 
+				</div>
+			</div>
 		</div>  -->
 
 		<!-- <div class="footer-widget">
@@ -722,8 +731,8 @@
 								</ul>
 							</div>
 						</div>
-					</div> 
-				</div> 
+					</div>
+				</div>
 			</div>
 		</div>  -->
 
@@ -755,7 +764,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-">
-                    
+
                 </div>
             </div>
         </div>
