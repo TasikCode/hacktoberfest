@@ -10,7 +10,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 	<!--====== Title ======-->
-	<title>Tasik Hacktoberfest 2019 - Hacktoberfest presented by Digitalocean</title>
+	<title>Tasik Hacktoberfest 2020 - Hacktoberfest presented by Digitalocean</title>
 
 	<!--====== Favicon Icon ======-->
 	<link rel="shortcut icon" href="assets/images/tasik_code_logo.ico" type="image/png">
@@ -117,8 +117,8 @@
 					<div class="col-lg-10">
 						<div data-countdown="2019/10/19"></div>
 						<div class="header-content text-center">
-							<h2 class="header-title">Tasik Hacktoberfest 2019</h2>
-							<h3 class="sub-title">19 October, 2019 in Tasikmalaya</h3>
+							<h2 class="header-title">Tasik Hacktoberfest 2020</h2>
+							<h3 class="sub-title">1 October, 2020 in Tasikmalaya</h3>
 							<ul class="header-btn">
 							<li><a class="main-btn main-btn-2" target="_blank" href="https://www.loket.com/event/tasikhacktoberfest2019" rel="nofollow">Register Now</a></li>
 								<li><a class="main-btn" target="_blank" href="https://hacktoberfest.digitalocean.com" rel="nofollow">Learn More</a></li>
@@ -221,12 +221,12 @@
 		<div class="container" style="background: #1d1d1d; padding-bottom: 90px; opacity: 0.8;">
 			<div class="row justify-content-center">
 				<div class="header-content text-center">
-					<h2 class="header-title">Tasik Hacktoberfest 2019</h2>
+					<h2 class="header-title">Tasik Hacktoberfest 2020</h2>
 					<h3 class="sub-title">Let's Support open source and join our community TasikCode</h3>
 
 					<hr>
 					<h3 class="sub-title">
-						Sabtu, 19 Oktober 2019 </h3>
+						Kamis, 1 Oktober 2019 </h3>
 					<h2 class="header-title">Dapur Mimih</h2>
 					<h4 class="sub-title">Jl. Gn. Sari, Lengkongsari, Kec. Tawang, Tasikmalaya, Jawa Barat 46111</h4>
 				</div> <!-- header content -->
