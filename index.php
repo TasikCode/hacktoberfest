@@ -101,7 +101,7 @@
 							</div>
 
 							<div class="navbar-btn d-none d-sm-inline-block">
-								<a class="main-btn" href="https://www.loket.com/event/tasikhacktoberfest2019">Get a Ticket</a>
+								<a class="main-btn" href="https://organize.mlh.io/participants/events/4766-hacktoberfest-online-meetup-in-tasikmalaya">Register Now</a>
 							</div>
 						</nav> <!-- navbar -->
 					</div>
@@ -149,7 +149,7 @@
 							In this event, we will jointly learn about open source and make direct contributions to open source project that you find
 							interesting and sharing the world of developers in the cities of Tasik and East Priangan.</p><br>
 						<h5>Information about what is the Hacktober Fest 2019 can be seen <a href="https://hacktoberfest.digitalocean.com">here.</a></h5><br>
-						<p class="date"><span>19<sup></sup></span> Oktober 2019</p>
+						<p class="date"><span>10<sup></sup></span> Oktober 2020</p>
 					</div> <!-- about content -->
 				</div>
 			</div> <!-- row -->
@@ -224,9 +224,9 @@
 
 					<hr>
 					<h3 class="sub-title">
-						Kamis, 1 Oktober 2019 </h3>
-					<h2 class="header-title">Dapur Mimih</h2>
-					<h4 class="sub-title">Jl. Gn. Sari, Lengkongsari, Kec. Tawang, Tasikmalaya, Jawa Barat 46111</h4>
+						Sabtu, 10 Oktober 2020 </h3>
+					<h2 class="header-title">Google Meet</h2>
+					<h4 class="sub-title">Office set at your home</h4>
 				</div> <!-- header content -->
 			</div> <!-- row -->
 		</div> <!-- container -->
@@ -241,9 +241,9 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-8">
 					<div class="section-title text-center pb-20">
-						<h2 class="title">Why You Should Attend?</h2>
+						<h2 class="title">Why You Join Us?</h2>
 						<p class="text">This event was held all over the world simultaneously during this October, to enliven it let's take advantage of this moment to gather fellow developers.</p>
-					</div> <!-- section title -->
+					</div>
 				</div>
 			</div> <!-- row -->
 			<div class="row justify-content-center">
