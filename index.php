@@ -113,12 +113,12 @@
 			<div class="container">
 				<div class="row justify-content-center">
 					<div class="col-lg-10">
-						<div data-countdown="2019/10/19"></div>
+						<div data-countdown="2020/10/10"></div>
 						<div class="header-content text-center">
 							<h2 class="header-title">Tasik Hacktoberfest 2020</h2>
-							<h3 class="sub-title">1 October, 2020 in Tasikmalaya</h3>
+							<h3 class="sub-title">10 October, 2020 in Tasikmalaya</h3>
 							<ul class="header-btn">
-							<li><a class="main-btn main-btn-2" target="_blank" href="https://www.loket.com/event/tasikhacktoberfest2019" rel="nofollow">Register Now</a></li>
+							<li><a class="main-btn main-btn-2" target="_blank" href="https://organize.mlh.io/participants/events/4766-hacktoberfest-online-meetup-in-tasikmalaya" rel="nofollow">Register Now</a></li>
 								<li><a class="main-btn" target="_blank" href="https://hacktoberfest.digitalocean.com" rel="nofollow">Learn More</a></li>
 							</ul>
 						</div> <!-- header content -->
