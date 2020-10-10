@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="en">
+
 <head>
 	<!--====== Required meta tags ======-->
 	<meta charset="utf-8">
@@ -71,7 +72,8 @@
 							<a class="navbar-brand" href="#">
 								<img src="assets/images/tasik_code_logo_light.png" alt="Tasik Code" style="width:150px">
 							</a>
-							<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTwo" aria-controls="navbarTwo" aria-expanded="false" aria-label="Toggle navigation">
+							<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTwo"
+								aria-controls="navbarTwo" aria-expanded="false" aria-label="Toggle navigation">
 								<span class="toggler-icon"></span>
 								<span class="toggler-icon"></span>
 								<span class="toggler-icon"></span>
@@ -101,7 +103,9 @@
 							</div>
 
 							<div class="navbar-btn d-none d-sm-inline-block">
-								<a class="main-btn" href="https://organize.mlh.io/participants/events/4766-hacktoberfest-online-meetup-in-tasikmalaya">Register Now</a>
+								<a class="main-btn"
+									href="https://organize.mlh.io/participants/events/4766-hacktoberfest-online-meetup-in-tasikmalaya">Register
+									Now</a>
 							</div>
 						</nav> <!-- navbar -->
 					</div>
@@ -109,7 +113,8 @@
 			</div> <!-- container -->
 		</div>
 
-		<div id="home" class="header-content-area bg_cover d-flex align-items-center" style="background-image: url(assets/images/city_light_dark.jpg)">
+		<div id="home" class="header-content-area bg_cover d-flex align-items-center"
+			style="background-image: url(assets/images/city_light_dark.jpg)">
 			<div class="container">
 				<div class="row justify-content-center">
 					<div class="col-lg-10">
@@ -118,8 +123,11 @@
 							<h2 class="header-title">Tasik Hacktoberfest 2020</h2>
 							<h3 class="sub-title">10 October, 2020 in Tasikmalaya</h3>
 							<ul class="header-btn">
-							<li><a class="main-btn main-btn-2" target="_blank" href="https://organize.mlh.io/participants/events/4766-hacktoberfest-online-meetup-in-tasikmalaya" rel="nofollow">Register Now</a></li>
-								<li><a class="main-btn" target="_blank" href="https://hacktoberfest.digitalocean.com" rel="nofollow">Learn More</a></li>
+								<li><a class="main-btn main-btn-2" target="_blank"
+										href="https://organize.mlh.io/participants/events/4766-hacktoberfest-online-meetup-in-tasikmalaya"
+										rel="nofollow">Register Now</a></li>
+								<li><a class="main-btn" target="_blank" href="https://hacktoberfest.digitalocean.com"
+										rel="nofollow">Learn More</a></li>
 							</ul>
 						</div> <!-- header content -->
 					</div>
@@ -144,11 +152,18 @@
 						<div class="section-title">
 							<h2 class="title">Tasik Hacktoberfest</h2>
 						</div> <!-- section title -->
-						<p class="text mt-30"><a href="https://tasikcode.xyz">TasikCode</a> community will hold the <a href="https://hacktoberfest.digitalocean.com">Hacktoberfest 2019</a> event in Tasikmalaya,
-							an open source software celebration organized by <a href="https://digitalocean.com">DigitalOcean</a> in collaboration with a team from <a href="https://dev.to">Dev.to</a>
-							In this event, we will jointly learn about open source and make direct contributions to open source project that you find
-							interesting and sharing the world of developers in the cities of Tasik and East Priangan.</p><br>
-						<h5>Information about what is the Hacktober Fest 2019 can be seen <a href="https://hacktoberfest.digitalocean.com">here.</a></h5><br>
+						<p class="text mt-30"><a href="https://tasikcode.xyz">TasikCode</a> community will hold the <a
+								href="https://hacktoberfest.digitalocean.com">Hacktoberfest 2019</a> event in
+							Tasikmalaya,
+							an open source software celebration organized by <a
+								href="https://digitalocean.com">DigitalOcean</a> in collaboration with a team from <a
+								href="https://dev.to">Dev.to</a>
+							In this event, we will jointly learn about open source and make direct contributions to open
+							source project that you find
+							interesting and sharing the world of developers in the cities of Tasik and East Priangan.
+						</p><br>
+						<h5>Information about what is the Hacktober Fest 2019 can be seen <a
+								href="https://hacktoberfest.digitalocean.com">here.</a></h5><br>
 						<p class="date"><span>10<sup></sup></span> Oktober 2020</p>
 					</div> <!-- about content -->
 				</div>
@@ -164,7 +179,8 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-3 col-sm-6">
-					<div class="single-counter text-center mt-100 wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
+					<div class="single-counter text-center mt-100 wow fadeIn" data-wow-duration="1s"
+						data-wow-delay="0s">
 						<div class="counter-icon">
 							<i class="lni-mic"></i>
 						</div>
@@ -175,7 +191,8 @@
 					</div> <!-- single counter -->
 				</div>
 				<div class="col-lg-3 col-sm-6">
-					<div class="single-counter text-center mt-100 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.3s">
+					<div class="single-counter text-center mt-100 wow fadeIn" data-wow-duration="1s"
+						data-wow-delay="0.3s">
 						<div class="counter-icon">
 							<i class="lni-bulb"></i>
 						</div>
@@ -186,7 +203,8 @@
 					</div> <!-- single counter -->
 				</div>
 				<div class="col-lg-3 col-sm-6">
-					<div class="single-counter text-center mt-100 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.6s">
+					<div class="single-counter text-center mt-100 wow fadeIn" data-wow-duration="1s"
+						data-wow-delay="0.6s">
 						<div class="counter-icon">
 							<i class="lni-briefcase"></i>
 						</div>
@@ -197,7 +215,8 @@
 					</div> <!-- single counter -->
 				</div>
 				<div class="col-lg-3 col-sm-6">
-					<div class="single-counter text-center mt-100 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.9s">
+					<div class="single-counter text-center mt-100 wow fadeIn" data-wow-duration="1s"
+						data-wow-delay="0.9s">
 						<div class="counter-icon">
 							<i class="lni-coffee-cup"></i>
 						</div>
@@ -215,7 +234,8 @@
 
 	<!--====== EVENT SCHEDULE PART START ======-->
 
-	<section id="event" class="event-schedule pt-115 pb-130" style="background-image: url(assets/images/Hacktoberfest_19_Events_2050x1025.png)">
+	<section id="event" class="event-schedule pt-115 pb-130"
+		style="background-image: url(assets/images/background-hacktoberfest2020.jpg); background-size: cover; background-repeat: no-repeat;">
 		<div class="container" style="background: #1d1d1d; padding-bottom: 90px; opacity: 0.8;">
 			<div class="row justify-content-center">
 				<div class="header-content text-center">
@@ -242,80 +262,93 @@
 				<div class="col-lg-8">
 					<div class="section-title text-center pb-20">
 						<h2 class="title">Why You Join Us?</h2>
-						<p class="text">This event was held all over the world simultaneously during this October, to enliven it let's take advantage of this moment to gather fellow developers.</p>
+						<p class="text">This event was held all over the world simultaneously during this October, to
+							enliven it let's take advantage of this moment to gather fellow developers.</p>
 					</div>
 				</div>
 			</div> <!-- row -->
 			<div class="row justify-content-center">
 				<div class="col-lg-4 col-md-6 col-sm-8">
-					<div class="single-features text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
+					<div class="single-features text-center mt-30 wow fadeIn" data-wow-duration="1s"
+						data-wow-delay="0s">
 						<div class="features-icon">
 							<i class="lni-microphone"></i>
 							<span>01</span>
 						</div>
 						<div class="features-content">
 							<h4 class="features-title"><a href="#">Developer Gathering</a></h4>
-							<p class="text">Gathering of activists, application developers both desktop, website and mobile.</p>
+							<p class="text">Gathering of activists, application developers both desktop, website and
+								mobile.</p>
 						</div>
 					</div> <!-- single features -->
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-8">
-					<div class="single-features text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
+					<div class="single-features text-center mt-30 wow fadeIn" data-wow-duration="1s"
+						data-wow-delay="0.5s">
 						<div class="features-icon">
 							<i class="lni-users"></i>
 							<span>02</span>
 						</div>
 						<div class="features-content">
 							<h4 class="features-title"><a href="#">New People</a></h4>
-							<p class="text">Meet new people, share experiences both in the developer world and in the non-technical world.</p>
+							<p class="text">Meet new people, share experiences both in the developer world and in the
+								non-technical world.</p>
 						</div>
 					</div> <!-- single features -->
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-8">
-					<div class="single-features text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1s">
+					<div class="single-features text-center mt-30 wow fadeIn" data-wow-duration="1s"
+						data-wow-delay="1s">
 						<div class="features-icon">
 							<i class="lni-bullhorn"></i>
 							<span>03</span>
 						</div>
 						<div class="features-content">
 							<h4 class="features-title"><a href="#">Global Event</a></h4>
-							<p class="text">This event was held all over the world simultaneously during October to encourage the open source world.</p>
+							<p class="text">This event was held all over the world simultaneously during October to
+								encourage the open source world.</p>
 						</div>
 					</div> <!-- single features -->
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-8">
-					<div class="single-features text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
+					<div class="single-features text-center mt-30 wow fadeIn" data-wow-duration="1s"
+						data-wow-delay="0.5s">
 						<div class="features-icon">
 							<i class="lni-heart"></i>
 							<span>04</span>
 						</div>
 						<div class="features-content">
 							<h4 class="features-title"><a href="#">Inspire</a></h4>
-							<p class="text">Inspiring each other, collaboration to make the quality of developers better.</p>
+							<p class="text">Inspiring each other, collaboration to make the quality of developers
+								better.</p>
 						</div>
 					</div> <!-- single features -->
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-8">
-					<div class="single-features text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1s">
+					<div class="single-features text-center mt-30 wow fadeIn" data-wow-duration="1s"
+						data-wow-delay="1s">
 						<div class="features-icon">
 							<i class="lni-cup"></i>
 							<span>05</span>
 						</div>
 						<div class="features-content">
 							<h4 class="features-title"><a href="#">Networking Session</a></h4>
-							<p class="text">Find business partners and fellow developers to be able to work together in the future.</p>
+							<p class="text">Find business partners and fellow developers to be able to work together in
+								the future.</p>
 						</div>
 					</div> <!-- single features -->
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-8">
-					<div class="single-features text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1.5s">
+					<div class="single-features text-center mt-30 wow fadeIn" data-wow-duration="1s"
+						data-wow-delay="1.5s">
 						<div class="features-icon">
 							<i class="lni-gallery"></i>
 							<span>06</span>
 						</div>
 						<div class="features-content">
 							<h4 class="features-title"><a href="#">Meet New Faces</a></h4>
-							<p class="text">Developers also need to socialize, so they are more capable in communicating in the real world.</p>
+							<p class="text">Developers also need to socialize, so they are more capable in communicating
+								in the real world.</p>
 						</div>
 					</div> <!-- single features -->
 				</div>
@@ -338,9 +371,10 @@
 			</div>
 			<div class="row">
 				<div class="col-lg-4 col-sm-6">
-					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeIn;">
+					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0s"
+						style="visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeIn;">
 						<div class="team-image">
-							<img src="https://avatars.githubusercontent.com/daguswijaya" alt="" border="0" width=""/>
+							<img src="https://avatars.githubusercontent.com/daguswijaya" alt="" border="0" width="" />
 						</div>
 						<div class="team-content">
 							<div class="team-social">
@@ -356,9 +390,10 @@
 					</div>
 				</div>
 				<div class="col-lg-4 col-sm-6">
-					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeIn;">
+					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s"
+						style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeIn;">
 						<div class="team-image">
-							<img src="https://avatars.githubusercontent.com/donypurnama" alt="" border="0" width=""/>
+							<img src="https://avatars.githubusercontent.com/donypurnama" alt="" border="0" width="" />
 						</div>
 						<div class="team-content">
 							<div class="team-social">
@@ -374,9 +409,11 @@
 					</div>
 				</div>
 				<div class="col-lg-4 col-sm-6">
-					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1s" style="visibility: visible; animation-duration: 1s; animation-delay: 1s; animation-name: fadeIn;">
+					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1s"
+						style="visibility: visible; animation-duration: 1s; animation-delay: 1s; animation-name: fadeIn;">
 						<div class="team-image">
-							<img src="https://avatars.githubusercontent.com/lukmannulhakim" alt="" border="0" width=""/>
+							<img src="https://avatars.githubusercontent.com/lukmannulhakim" alt="" border="0"
+								width="" />
 						</div>
 						<div class="team-content">
 							<div class="team-social">
@@ -392,9 +429,10 @@
 					</div>
 				</div>
 				<div class="col-lg-4 col-sm-6">
-					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeIn;">
+					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s"
+						style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeIn;">
 						<div class="team-image">
-							<img src="./assets/images/triza_m_irfan.jpeg" alt="" border="0" width=""/>
+							<img src="./assets/images/triza_m_irfan.jpeg" alt="" border="0" width="" />
 						</div>
 						<div class="team-content">
 							<div class="team-social">
@@ -410,9 +448,10 @@
 					</div>
 				</div>
 				<div class="col-lg-4 col-sm-6">
-					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1s" style="visibility: visible; animation-duration: 1s; animation-delay: 1s; animation-name: fadeIn;">
+					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1s"
+						style="visibility: visible; animation-duration: 1s; animation-delay: 1s; animation-name: fadeIn;">
 						<div class="team-image">
-							<img src="./assets/images/reza_maulana.jpg" alt="" border="0" width=""/>
+							<img src="./assets/images/reza_maulana.jpg" alt="" border="0" width="" />
 						</div>
 						<div class="team-content">
 							<div class="team-social">
@@ -428,9 +467,10 @@
 					</div>
 				</div>
 				<div class="col-lg-4 col-sm-6">
-					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 1.5s; animation-name: fadeIn;">
+					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1.5s"
+						style="visibility: visible; animation-duration: 1s; animation-delay: 1.5s; animation-name: fadeIn;">
 						<div class="team-image">
-							<img src="./assets/images/hedi_herdia.jpg" alt="" border="0" width=""/>
+							<img src="./assets/images/hedi_herdia.jpg" alt="" border="0" width="" />
 						</div>
 						<div class="team-content">
 							<div class="team-social">
@@ -446,9 +486,10 @@
 					</div>
 				</div>
 				<div class="col-lg-4 col-sm-6">
-					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeIn;">
+					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s"
+						style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeIn;">
 						<div class="team-image">
-							<img src="https://avatars.githubusercontent.com/rozulimam" alt="" border="0" width=""/>
+							<img src="https://avatars.githubusercontent.com/rozulimam" alt="" border="0" width="" />
 						</div>
 						<div class="team-content">
 							<div class="team-social">
@@ -464,12 +505,14 @@
 					</div>
 				</div>
 				<div class="col-lg-4 col-sm-6">
-					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1s" style="visibility: visible; animation-duration: 1s; animation-delay: 1s; animation-name: fadeIn;">
+					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1s"
+						style="visibility: visible; animation-duration: 1s; animation-delay: 1s; animation-name: fadeIn;">
 
 					</div>
 				</div>
 				<div class="col-lg-4 col-sm-6">
-					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 1.5s; animation-name: fadeIn;">
+					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1.5s"
+						style="visibility: visible; animation-duration: 1s; animation-delay: 1.5s; animation-name: fadeIn;">
 
 					</div>
 				</div>
@@ -484,7 +527,9 @@
 				<div class="col-lg-8">
 					<div class="section-title text-center pb-50">
 						<h2 class="title">Galleri</h2>
-						<a class="twitter-timeline" href="https://twitter.com/tasikcode?ref_src=twsrc%5Etfw">Tweets by tasikcode</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+						<a class="twitter-timeline" href="https://twitter.com/tasikcode?ref_src=twsrc%5Etfw">Tweets by
+							tasikcode</a>
+						<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 					</div>
 				</div>
 			</div>
@@ -568,7 +613,8 @@
 					<div class="section-title text-center pb-50">
 						<h2 class="title">Event Sponsors</h2>
 						<div class="embed-responsive embed-responsive-16by9">
-						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0"
+								allowfullscreen></iframe>
 						</div>
 						<!-- <p class="text">Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum vocent mediocritatem reiciendis odit sed, vero amet blanditiis cule dicta iriure at phaedrum.</p> -->
 					</div> <!-- section title -->
@@ -647,7 +693,8 @@
 									</div>
 									<div class="info-content media-body">
 										<h6 class="info-title">Github</h6>
-										<p class="text"><a href="https://github.com/TasikCode" target="_blank">TasikCode</a></p>
+										<p class="text"><a href="https://github.com/TasikCode"
+												target="_blank">TasikCode</a></p>
 									</div>
 								</div> <!-- single info -->
 							</li>
@@ -658,7 +705,8 @@
 									</div>
 									<div class="info-content media-body">
 										<h6 class="info-title">Location</h6>
-										<p class="text">Jl. Gn. Sari, Lengkongsari, Kec. Tawang, Tasikmalaya, Jawa Barat 46111</p>
+										<p class="text">Jl. Gn. Sari, Lengkongsari, Kec. Tawang, Tasikmalaya, Jawa Barat
+											46111</p>
 									</div>
 								</div> <!-- single info -->
 							</li>
@@ -675,7 +723,9 @@
 				<div class="col-lg-12">
 					<div class="contact-map pt-130">
 						<div class="gmap_canvas">
-							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.2399698558984!2d108.23112351477525!3d-7.326922094712263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f579869e36ca7%3A0x12f1ec90b2034d1d!2sRumah%20Makan%20%22Dapur%20Mimih%22!5e0!3m2!1sid!2sid!4v1570513114981!5m2!1sid!2sid" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+							<iframe
+								src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.2399698558984!2d108.23112351477525!3d-7.326922094712263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f579869e36ca7%3A0x12f1ec90b2034d1d!2sRumah%20Makan%20%22Dapur%20Mimih%22!5e0!3m2!1sid!2sid!4v1570513114981!5m2!1sid!2sid"
+								width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 							<!-- <iframe id="gmap_canvas" src="https://maps.google.com/maps?q=Mission%20District%2C%20San%20Francisco%2C%20CA%2C%20USA&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe> -->
 						</div>
 					</div> <!-- contact map -->
@@ -741,7 +791,7 @@
 				<div class="row">
 					<div class="col-lg-12">
 						<div class="copyright text-center">
-							<p class="text">© 2019 Tasik Hacktoberfest 2019</p>
+							<p class="text">© 2020 Tasik Hacktoberfest 2020</p>
 						</div> <!-- copyright -->
 					</div>
 				</div> <!-- row -->
